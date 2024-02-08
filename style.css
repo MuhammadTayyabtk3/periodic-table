@@ -1,0 +1,44 @@
+.blue{
+    background-color:hsl(229, 73%, 78%);
+    color: rgb(14, 14, 224);   
+}
+
+.rad{
+background-color: rgb(255, 190, 190);
+color: rgb(177, 10, 10);
+}
+
+.aqua{
+    background-color:rgb(209, 252, 252) ;
+    color: rgb(32, 105, 81);
+}
+
+.yellow{
+    background-color:rgb(255, 243, 212);
+    color: rgb(105, 61, 11);
+}
+
+.green{
+    background-color: rgb(196, 255, 196);
+    color: rgb(33, 37, 34);
+}
+
+.magenta{
+    background-color:rgb(250, 219, 250);
+    color: rgb(46, 43, 226);
+}
+
+.orange{
+    background-color:rgb(255, 224, 188) ;
+    color:rgb(158, 34, 34) ;
+}
+
+.silver{
+    background-color: rgb(209, 209, 209);
+}
+
+
+img{
+    width: 1500px;
+    height: 400px;
+}
